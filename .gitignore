@@ -1,0 +1,5 @@
+/.vector_cache/*
+/original_data/*
+/data/reddit_train.csv
+/data/reddit_test.csv
+/.idea/*
